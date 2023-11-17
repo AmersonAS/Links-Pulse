@@ -1,4 +1,2 @@
-# Rocketseat_Discover
-Aula pratica de uma página de link no curso gratuido Discover da Rocketseat
-
-Criando uma página de links utilizando HTML, CSS e JavaScript afim de aprender e aprimorar alguns conhecimentos básicos!
+# Pagina de Links
+Criação de uma página de links para a empresa @pulsecreatives, para suas redes sociais e suas formas de contato!
